@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fiveminutes001
+- 👋 Hi, I’m @fiveminutes001.
 - 👀 I’m interested in developing useful apps.
 - 🌱 I’m currently learning Blockchain development, Solidity and the Etherium network. 
 - 💞️ I’m looking to collaborate on Blockchain apps.
